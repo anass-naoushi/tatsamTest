@@ -2,7 +2,7 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:tatsamtest/models/country.dart';
 import 'package:tatsamtest/utils/countryUtils.dart';
-import 'package:tatsamtest/widgets/coutryWidgets.dart';
+import 'package:tatsamtest/widgets/coutryTile.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tatsamtest/models/country.dart';
-import 'package:tatsamtest/widgets/coutryWidgets.dart';
+import 'package:tatsamtest/widgets/coutryTile.dart';
 
 class Favourites extends StatefulWidget {
 final ValueNotifier<List<Country>> favouritesList;
